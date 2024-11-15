@@ -1,0 +1,509 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be1567e12106487478827fb7e0256a36, type: 3}
+  m_Name: Data SO Hex
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 2100000, guid: c8124662883fe1d4c8f850333a501012, type: 2}
+    - {fileID: 2100000, guid: fab589a5518604f4caaae58fc3d2e015, type: 2}
+    - {fileID: 2800000, guid: bfa7a68657dfa0a4ab933470951a9a4c, type: 3}
+    - {fileID: 2100000, guid: b3613f5e65c40874cb71e3f60da9ed98, type: 2}
+    - {fileID: 2100000, guid: 37ac5216d339de94b88ef6bb10308cf0, type: 2}
+    - {fileID: 2100000, guid: 91d4e43802499344c83659dc87a7c2a1, type: 2}
+    - {fileID: 2800000, guid: 3b4786baa2e409541a21fb4fb3fb4252, type: 3}
+    - {fileID: 2100000, guid: 1f6eb81273661104aa28fced88048f4f, type: 2}
+    - {fileID: 2100000, guid: 0126bad84278a9747938ab728180d94a, type: 2}
+    - {fileID: 2100000, guid: 65200192bfcd816479e1b3b99b69b1d9, type: 2}
+    - {fileID: 2800000, guid: a8bc33efdcb423b4599bd5f12ae9799e, type: 3}
+    - {fileID: 2100000, guid: 61adb7193ecb12d4fada6ac4daaea907, type: 2}
+    - {fileID: 2100000, guid: ccd7e789fb7b58440a157b27abec14ea, type: 2}
+    - {fileID: 2100000, guid: 59823a703adc6fc4c8408857911f4ee2, type: 2}
+    - {fileID: 2800000, guid: 0d17c87c2bf15c042b5c6afa4cbc0037, type: 3}
+    - {fileID: 2100000, guid: 4fc66304381399b4b9880bdaeb85dda5, type: 2}
+    - {fileID: 2100000, guid: b566361076fa2d54fbd5eac7cdcaa2ff, type: 2}
+    - {fileID: 2100000, guid: 9d9059bb3e77d924c9c5e114b076f9b7, type: 2}
+    - {fileID: 2800000, guid: 22a9f1a4d7a83c249bca891ab4a2a867, type: 3}
+    - {fileID: 2100000, guid: fd76e73fa540bb345b8e4fabcc7df08a, type: 2}
+    - {fileID: 2100000, guid: fb724d21790904b4daf490efc544275f, type: 2}
+    - {fileID: 2100000, guid: 3eb0209aa0a747444b9eaec1ab99e463, type: 2}
+    - {fileID: 2800000, guid: 1f7db60b2ae712b43a11457e5ce37ed9, type: 3}
+    - {fileID: 2100000, guid: a96c3266d0b529948bb2f4f85a86f546, type: 2}
+    - {fileID: 2100000, guid: 0de1b404be35d2e458ec79184c3af53b, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _listData
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[DataSOHexModel, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: 1|DataSOHexModel, Assembly-CSharp
+    - Name: TypeDirHex
+      Entry: 3
+      Data: 0
+    - Name: M_Boder
+      Entry: 10
+      Data: 0
+    - Name: M_Glass
+      Entry: 10
+      Data: 0
+    - Name: M_Arrow
+      Entry: 10
+      Data: 1
+    - Name: _Texture
+      Entry: 10
+      Data: 2
+    - Name: DicsColorHex
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[TypeColor, Assembly-CSharp],[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 3|System.Collections.Generic.EnumEqualityComparer`1[[TypeColor, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|DataSOHexModel, Assembly-CSharp
+    - Name: TypeDirHex
+      Entry: 3
+      Data: 1
+    - Name: M_Boder
+      Entry: 10
+      Data: 5
+    - Name: M_Glass
+      Entry: 10
+      Data: 5
+    - Name: M_Arrow
+      Entry: 10
+      Data: 1
+    - Name: _Texture
+      Entry: 10
+      Data: 6
+    - Name: DicsColorHex
+      Entry: 7
+      Data: 5|System.Collections.Generic.Dictionary`2[[TypeColor, Assembly-CSharp],[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 3
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 9
+    - Name: $v
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 10
+    - Name: $v
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 11
+    - Name: $v
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|DataSOHexModel, Assembly-CSharp
+    - Name: TypeDirHex
+      Entry: 3
+      Data: 2
+    - Name: M_Boder
+      Entry: 10
+      Data: 9
+    - Name: M_Glass
+      Entry: 10
+      Data: 9
+    - Name: M_Arrow
+      Entry: 10
+      Data: 1
+    - Name: _Texture
+      Entry: 10
+      Data: 10
+    - Name: DicsColorHex
+      Entry: 7
+      Data: 7|System.Collections.Generic.Dictionary`2[[TypeColor, Assembly-CSharp],[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 3
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 15
+    - Name: $v
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 16
+    - Name: $v
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 17
+    - Name: $v
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|DataSOHexModel, Assembly-CSharp
+    - Name: TypeDirHex
+      Entry: 3
+      Data: 3
+    - Name: M_Boder
+      Entry: 10
+      Data: 13
+    - Name: M_Glass
+      Entry: 10
+      Data: 13
+    - Name: M_Arrow
+      Entry: 10
+      Data: 1
+    - Name: _Texture
+      Entry: 10
+      Data: 14
+    - Name: DicsColorHex
+      Entry: 7
+      Data: 9|System.Collections.Generic.Dictionary`2[[TypeColor, Assembly-CSharp],[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 3
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 12
+    - Name: $v
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 13
+    - Name: $v
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 14
+    - Name: $v
+      Entry: 10
+      Data: 16
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|DataSOHexModel, Assembly-CSharp
+    - Name: TypeDirHex
+      Entry: 3
+      Data: 4
+    - Name: M_Boder
+      Entry: 10
+      Data: 17
+    - Name: M_Glass
+      Entry: 10
+      Data: 17
+    - Name: M_Arrow
+      Entry: 10
+      Data: 1
+    - Name: _Texture
+      Entry: 10
+      Data: 18
+    - Name: DicsColorHex
+      Entry: 7
+      Data: 11|System.Collections.Generic.Dictionary`2[[TypeColor, Assembly-CSharp],[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 3
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 10
+      Data: 17
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 10
+      Data: 19
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 10
+      Data: 20
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|DataSOHexModel, Assembly-CSharp
+    - Name: TypeDirHex
+      Entry: 3
+      Data: 5
+    - Name: M_Boder
+      Entry: 10
+      Data: 21
+    - Name: M_Glass
+      Entry: 10
+      Data: 21
+    - Name: M_Arrow
+      Entry: 10
+      Data: 1
+    - Name: _Texture
+      Entry: 10
+      Data: 22
+    - Name: DicsColorHex
+      Entry: 7
+      Data: 13|System.Collections.Generic.Dictionary`2[[TypeColor, Assembly-CSharp],[UnityEngine.Material,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 3
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 10
+      Data: 21
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 10
+      Data: 23
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 10
+      Data: 24
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c8e69d4b9cd4d4b9a384d6a40fe35a, type: 3}
+  m_Name: Data Ranker
+  m_EditorClassIdentifier: 
+  _listRankModel:
+  - IndexRank: 0
+    Score: 0
+    name: me
+  - IndexRank: 0
+    Score: 9
+    name: jonny
+  - IndexRank: 0
+    Score: 5
+    name: cleopatra
+  - IndexRank: 0
+    Score: 9
+    name: calliope
+  - IndexRank: 0
+    Score: 7
+    name: quynh linh
+  - IndexRank: 0
+    Score: 6
+    name: winifred
+  - IndexRank: 0
+    Score: 7
+    name: muriel
+  - IndexRank: 0
+    Score: 8
+    name: ha nguyen
+  - IndexRank: 0
+    Score: 8
+    name: ethelbert
+  - IndexRank: 0
+    Score: 8
+    name: eugene
+  - IndexRank: 0
+    Score: 9
+    name: xu xia
+  - IndexRank: 0
+    Score: 5
+    name: wen bao
+  - IndexRank: 0
+    Score: 8
+    name: duan chun
+  - IndexRank: 0
+    Score: 9
+    name: jia jia
+  - IndexRank: 0
+    Score: 5
+    name: han ruogang
+  - IndexRank: 0
+    Score: 7
+    name: mo shui
+  - IndexRank: 0
+    Score: 8
+    name: lai tao
+  - IndexRank: 0
+    Score: 5
+    name: liang wei
+  - IndexRank: 0
+    Score: 6
+    name: chang jingyi
+  - IndexRank: 0
+    Score: 5
+    name: xiong gengxin
+  - IndexRank: 0
+    Score: 5
+    name: huo guiying
+  - IndexRank: 0
+    Score: 7
+    name: yin meng
+  - IndexRank: 0
+    Score: 5
+    name: xiao hanying
+  - IndexRank: 0
+    Score: 7
+    name: sun da
+  - IndexRank: 0
+    Score: 7
+    name: geng yahui
+  - IndexRank: 0
+    Score: 9
+    name: li jun
+  - IndexRank: 0
+    Score: 6
+    name: gao hui
+  - IndexRank: 0
+    Score: 5
+    name: teng guo
+  - IndexRank: 0
+    Score: 8
+    name: feng zemin
+  - IndexRank: 0
+    Score: 5
+    name: qiao ju
+  - IndexRank: 0
+    Score: 5
+    name: fan heng
+  - IndexRank: 0
+    Score: 5
+    name: deng jian
+  - IndexRank: 0
+    Score: 9
+    name: peng xun
+  - IndexRank: 0
+    Score: 5
+    name: huang xue
+  - IndexRank: 0
+    Score: 7
+    name: xiang liuxian
+  - IndexRank: 0
+    Score: 6
+    name: aylmer
+  - IndexRank: 0
+    Score: 5
+    name: shion okumura
+  - IndexRank: 0
+    Score: 9
+    name: noriaki sasaki
+  - IndexRank: 0
+    Score: 6
+    name: shichiro kumagai
+  - IndexRank: 0
+    Score: 8
+    name: junpei minami
+  - IndexRank: 0
+    Score: 9
+    name: toshiaki minami
+  - IndexRank: 0
+    Score: 8
+    name: kenichi inoue
+  - IndexRank: 0
+    Score: 9
+    name: haru yamada
+  - IndexRank: 0
+    Score: 6
+    name: kazuya yamada
+  - IndexRank: 0
+    Score: 7
+    name: hideyoshi fukui
+  - IndexRank: 0
+    Score: 6
+    name: akimitsu yamashita
+  - IndexRank: 0
+    Score: 5
+    name: rikuto maki
+  - IndexRank: 0
+    Score: 5
+    name: taro miyashita
+  - IndexRank: 0
+    Score: 9
+    name: katsuo himura
+  - IndexRank: 0
+    Score: 15
+    name: shohei nakahara
+  - IndexRank: 0
+    Score: 13
+    name: jiro kimura
+  - IndexRank: 0
+    Score: 15
+    name: gideon
+  - IndexRank: 0
+    Score: 12
+    name: do-yun gang
+  - IndexRank: 0
+    Score: 10
+    name: ha-jun kang
+  - IndexRank: 0
+    Score: 11
+    name: joon-ho jeong
+  - IndexRank: 0
+    Score: 15
+    name: eun-jung yi
+  - IndexRank: 0
+    Score: 15
+    name: il-seong rhee
+  - IndexRank: 0
+    Score: 16
+    name: seo-joon mun
+  - IndexRank: 0
+    Score: 11
+    name: u-jin moon
+  - IndexRank: 0
+    Score: 15
+    name: seong-ho choi
+  - IndexRank: 0
+    Score: 12
+    name: jun-seo yi
+  - IndexRank: 0
+    Score: 17
+    name: yun-seo park
+  - IndexRank: 0
+    Score: 11
+    name: ji-soo gim
+  - IndexRank: 0
+    Score: 16
+    name: seok song
+  - IndexRank: 0
+    Score: 17
+    name: duri cho
+  - IndexRank: 0
+    Score: 17
+    name: yeong-hwan han
+  - IndexRank: 0
+    Score: 16
+    name: ji-min rhee
+  - IndexRank: 0
+    Score: 13
+    name: clitus
+  - IndexRank: 0
+    Score: 14
+    name: cuthbert
+  - IndexRank: 0
+    Score: 17
+    name: carwyn
+  - IndexRank: 0
+    Score: 14
+    name: dai
+  - IndexRank: 0
+    Score: 17
+    name: dominic
+  - IndexRank: 0
+    Score: 10
+    name: darius
+  - IndexRank: 0
+    Score: 13
+    name: edsel
+  - IndexRank: 0
+    Score: 15
+    name: elmer
+  - IndexRank: 0
+    Score: 14
+    name: rowan
+  - IndexRank: 0
+    Score: 13
+    name: venn
+  - IndexRank: 0
+    Score: 14
+    name: aidan
+  - IndexRank: 0
+    Score: 16
+    name: anatole
+  - IndexRank: 0
+    Score: 11
+    name: conal
+  - IndexRank: 0
+    Score: 13
+    name: dalziel
+  - IndexRank: 0
+    Score: 10
+    name: egan
+  - IndexRank: 0
+    Score: 15
+    name: enda
+  - IndexRank: 0
+    Score: 16
+    name: farley
+  - IndexRank: 0
+    Score: 11
+    name: farrer
+  - IndexRank: 0
+    Score: 12
+    name: lagan
+  - IndexRank: 0
+    Score: 14
+    name: leighton
+  - IndexRank: 0
+    Score: 14
+    name: lionel
+  - IndexRank: 0
+    Score: 13
+    name: lovell
+  - IndexRank: 0
+    Score: 17
+    name: phelan
+  - IndexRank: 0
+    Score: 16
+    name: radley
+  - IndexRank: 0
+    Score: 17
+    name: silas
+  - IndexRank: 0
+    Score: 12
+    name: uri
+  - IndexRank: 0
+    Score: 13
+    name: wolfgang
+  - IndexRank: 0
+    Score: 11
+    name: alden
+  - IndexRank: 0
+    Score: 14
+    name: alvin
+  - IndexRank: 0
+    Score: 12
+    name: amyas
+  - IndexRank: 0
+    Score: 12
+    name: aneurin
+  - IndexRank: 0
+    Score: 12
+    name: baldwin
